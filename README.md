@@ -1,4 +1,4 @@
-<h1> CURSO DE AUTOMAÇÃO </h1>
+<h1> CURSO DE AUTOMAÇÃO COM ARDUINO </h1>
 <h4> Com Professor Cristiano Nazário </h4>
 <h2> PROJETOS </h2>
 <h3>• Exercicio | Aula 06 - Input PullUp Led + input PullUp w/ relé </h3>
